@@ -28,6 +28,11 @@ In that form, they cannot attack anymore, but have a defense bonus.
 
 ### Linux
 
+Install SDL
+
+    $ # ArchLinux
+    $ sudo pacman -S sdl2
+
 Just run
 
     $ cargo build
